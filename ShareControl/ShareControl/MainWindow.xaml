@@ -1,13 +1,21 @@
-﻿<Window
+﻿<syncfusion:ChromelessWindow
     x:Class="ShareControl.MainWindow"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:local="clr-namespace:ShareControl"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
+    xmlns:syncfusionskin="clr-namespace:Syncfusion.SfSkinManager;assembly=Syncfusion.SfSkinManager.WPF"
     Title="MainWindow"
     Width="800"
     Height="450"
+    syncfusionskin:SfSkinManager.VisualStyle="MaterialLight"
     mc:Ignorable="d">
-    <Grid />
-</Window>
+    <Grid>
+        <Button
+            Width="100"
+            Height="40"
+            Content="Hello~" />
+    </Grid>
+</syncfusion:ChromelessWindow>

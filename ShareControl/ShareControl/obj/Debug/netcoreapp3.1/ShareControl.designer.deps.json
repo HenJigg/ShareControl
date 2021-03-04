@@ -13,6 +13,52 @@
             "fileVersion": "18.3.0.35"
           }
         }
+      },
+      "Syncfusion.SfSkinManager.WPF/18.3.0.35": {
+        "dependencies": {
+          "Syncfusion.Licensing": "18.3.0.35"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.SfSkinManager.WPF.dll": {
+            "assemblyVersion": "18.3310.0.35",
+            "fileVersion": "18.3310.0.35"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/18.3.0.35": {
+        "dependencies": {
+          "Syncfusion.Licensing": "18.3.0.35"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "18.3310.0.35",
+            "fileVersion": "18.3310.0.35"
+          }
+        }
+      },
+      "Syncfusion.Themes.MaterialLight.WPF/18.3.0.35": {
+        "dependencies": {
+          "Syncfusion.Licensing": "18.3.0.35",
+          "Syncfusion.SfSkinManager.WPF": "18.3.0.35"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.Themes.MaterialLight.WPF.dll": {
+            "assemblyVersion": "18.3310.0.35",
+            "fileVersion": "18.3310.0.35"
+          }
+        }
+      },
+      "Syncfusion.Themes.MaterialLightBlue.WPF/18.3.0.35": {
+        "dependencies": {
+          "Syncfusion.Licensing": "18.3.0.35",
+          "Syncfusion.SfSkinManager.WPF": "18.3.0.35"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.Themes.MaterialLightBlue.WPF.dll": {
+            "assemblyVersion": "18.3310.0.35",
+            "fileVersion": "18.3310.0.35"
+          }
+        }
       }
     }
   },
@@ -23,6 +69,34 @@
       "sha512": "sha512-+/FVpB5Vc/dS82eOjFJ0Q342uquO3a9tIk0xNpceAFa90LmayrJ4stJVK9QMuB5pX+8Wjcl/705cNA1nA2q/9w==",
       "path": "syncfusion.licensing/18.3.0.35",
       "hashPath": "syncfusion.licensing.18.3.0.35.nupkg.sha512"
+    },
+    "Syncfusion.SfSkinManager.WPF/18.3.0.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-q9nLKSLyt2v33kKmqvyd972iHIL47sLmY9yw5Gdt5CjXevzOqXATkSYSN9Z3LoWSckhv8s6l5YOjiF/PSLUl4g==",
+      "path": "syncfusion.sfskinmanager.wpf/18.3.0.35",
+      "hashPath": "syncfusion.sfskinmanager.wpf.18.3.0.35.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/18.3.0.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AnzKrnJuM0RrsqpzAqjFc7++XRQu0feDzhDnOX3eaIJNZvvVVQYzivl9nA0/ZEAG7OENaQfEBtKB7Ivx2fjtVg==",
+      "path": "syncfusion.shared.wpf/18.3.0.35",
+      "hashPath": "syncfusion.shared.wpf.18.3.0.35.nupkg.sha512"
+    },
+    "Syncfusion.Themes.MaterialLight.WPF/18.3.0.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NkHUavoDStwTjhQv1FEgdbEehZ/8i8GARqCGfozsFZRFkW+PGsdUi/6F9xdNU2E4J5y4mvTW3c9WPonb5JF18g==",
+      "path": "syncfusion.themes.materiallight.wpf/18.3.0.35",
+      "hashPath": "syncfusion.themes.materiallight.wpf.18.3.0.35.nupkg.sha512"
+    },
+    "Syncfusion.Themes.MaterialLightBlue.WPF/18.3.0.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eg+PTH4rPVUaLypqbPjE+cCfLIGGhsgSabSQCUtPrgUdM34ZvSe+KcXFvQSE1ACTpCiqqboFCQVaeDuB1CGoYw==",
+      "path": "syncfusion.themes.materiallightblue.wpf/18.3.0.35",
+      "hashPath": "syncfusion.themes.materiallightblue.wpf.18.3.0.35.nupkg.sha512"
     }
   }
 }

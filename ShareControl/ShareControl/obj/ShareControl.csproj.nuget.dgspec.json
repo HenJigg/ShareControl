@@ -49,6 +49,22 @@
             "Syncfusion.Licensing": {
               "target": "Package",
               "version": "[18.3.0.35, )"
+            },
+            "Syncfusion.SfSkinManager.WPF": {
+              "target": "Package",
+              "version": "[18.3.0.35, )"
+            },
+            "Syncfusion.Shared.WPF": {
+              "target": "Package",
+              "version": "[18.3.0.35, )"
+            },
+            "Syncfusion.Themes.MaterialLight.WPF": {
+              "target": "Package",
+              "version": "[18.3.0.35, )"
+            },
+            "Syncfusion.Themes.MaterialLightBlue.WPF": {
+              "target": "Package",
+              "version": "[18.3.0.35, )"
             }
           },
           "imports": [

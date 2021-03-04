@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZEu0zafEeMEybSfS8j2vLMelH/JPbPNriefYmBu6szF27EkEjUDdsrvqDwvn1svOvddFn0uIEpaV0wPrMENBFw==",
+  "success": true,
+  "projectFilePath": "D:\\GithubCode\\ShareControl\\ShareControl\\ShareControl\\ShareControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henji\\.nuget\\packages\\syncfusion.licensing\\18.3.0.35\\syncfusion.licensing.18.3.0.35.nupkg.sha512"
+  ],
+  "logs": []
+}

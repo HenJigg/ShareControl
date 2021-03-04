@@ -1,0 +1,5 @@
+D:\GithubCode\ShareControl\ShareControl\ShareControl\obj\Debug\netcoreapp3.1\ShareControl.csprojAssemblyReference.cache
+D:\GithubCode\ShareControl\ShareControl\ShareControl\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\GithubCode\ShareControl\ShareControl\ShareControl\obj\Debug\netcoreapp3.1\App.g.cs
+D:\GithubCode\ShareControl\ShareControl\ShareControl\obj\Debug\netcoreapp3.1\ShareControl_MarkupCompile.cache
+D:\GithubCode\ShareControl\ShareControl\ShareControl\obj\Debug\netcoreapp3.1\ShareControl_MarkupCompile.lref

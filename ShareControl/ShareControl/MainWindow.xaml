@@ -7,15 +7,26 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
     xmlns:syncfusionskin="clr-namespace:Syncfusion.SfSkinManager;assembly=Syncfusion.SfSkinManager.WPF"
-    Title="MainWindow"
+    Title=""
     Width="800"
     Height="450"
-    syncfusionskin:SfSkinManager.VisualStyle="MaterialLight"
+    syncfusionskin:SfSkinManager.VisualStyle="MaterialDark"
     mc:Ignorable="d">
     <Grid>
-        <Button
-            Width="100"
-            Height="40"
-            Content="Hello~" />
+        <syncfusion:DockingManager UseDocumentContainer="True">
+            <ContentControl
+                syncfusion:DockingManager.DesiredWidthInDockedMode="250"
+                syncfusion:DockingManager.SideInDockedMode="Left"
+                syncfusion:DockingManager.Header="解决方案资源管理器" />
+
+            <ContentControl
+                syncfusion:DockingManager.Header="选项卡"
+                syncfusion:DockingManager.DesiredWidthInDockedMode="200"
+                syncfusion:DockingManager.SideInDockedMode="Right" />
+
+            <!--<ContentControl syncfusion:DockingManager.Header="Main.cs" syncfusion:DockingManager.State="Document" />
+            <ContentControl syncfusion:DockingManager.Header="back.jpg" syncfusion:DockingManager.State="Document" />
+            <ContentControl syncfusion:DockingManager.Header="appsettings.json" syncfusion:DockingManager.State="Document" />-->
+        </syncfusion:DockingManager>
     </Grid>
 </syncfusion:ChromelessWindow>

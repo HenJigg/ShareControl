@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GithubCode\\ShareControl\\ShareControl\\ShareControl\\ShareControl.csproj": {}
+    "C:\\Users\\zhouh\\Desktop\\MaterialDesignInPrism\\ShareControl\\ShareControl\\ShareControl\\ShareControl.csproj": {}
   },
   "projects": {
-    "D:\\GithubCode\\ShareControl\\ShareControl\\ShareControl\\ShareControl.csproj": {
+    "C:\\Users\\zhouh\\Desktop\\MaterialDesignInPrism\\ShareControl\\ShareControl\\ShareControl\\ShareControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GithubCode\\ShareControl\\ShareControl\\ShareControl\\ShareControl.csproj",
+        "projectUniqueName": "C:\\Users\\zhouh\\Desktop\\MaterialDesignInPrism\\ShareControl\\ShareControl\\ShareControl\\ShareControl.csproj",
         "projectName": "ShareControl",
-        "projectPath": "D:\\GithubCode\\ShareControl\\ShareControl\\ShareControl\\ShareControl.csproj",
-        "packagesPath": "C:\\Users\\henji\\.nuget\\packages\\",
-        "outputPath": "D:\\GithubCode\\ShareControl\\ShareControl\\ShareControl\\obj\\",
+        "projectPath": "C:\\Users\\zhouh\\Desktop\\MaterialDesignInPrism\\ShareControl\\ShareControl\\ShareControl\\ShareControl.csproj",
+        "packagesPath": "C:\\Users\\zhouh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zhouh\\Desktop\\MaterialDesignInPrism\\ShareControl\\ShareControl\\ShareControl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "F:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\henji\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zhouh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,8 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.cnblogs.com/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -58,11 +57,19 @@
               "target": "Package",
               "version": "[18.3.0.35, )"
             },
+            "Syncfusion.Themes.MaterialDark.WPF": {
+              "target": "Package",
+              "version": "[18.3.0.35, )"
+            },
             "Syncfusion.Themes.MaterialLight.WPF": {
               "target": "Package",
               "version": "[18.3.0.35, )"
             },
             "Syncfusion.Themes.MaterialLightBlue.WPF": {
+              "target": "Package",
+              "version": "[18.3.0.35, )"
+            },
+            "Syncfusion.Tools.WPF": {
               "target": "Package",
               "version": "[18.3.0.35, )"
             }
@@ -85,7 +92,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

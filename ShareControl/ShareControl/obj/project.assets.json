@@ -35,6 +35,19 @@
           "lib/netcoreapp3.1/Syncfusion.Shared.WPF.dll": {}
         }
       },
+      "Syncfusion.Themes.MaterialDark.WPF/18.3.0.35": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "18.3.0.35",
+          "Syncfusion.SfSkinManager.WPF": "18.3.0.35"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Syncfusion.Themes.MaterialDark.WPF.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.Themes.MaterialDark.WPF.dll": {}
+        }
+      },
       "Syncfusion.Themes.MaterialLight.WPF/18.3.0.35": {
         "type": "package",
         "dependencies": {
@@ -59,6 +72,19 @@
         },
         "runtime": {
           "lib/netcoreapp3.1/Syncfusion.Themes.MaterialLightBlue.WPF.dll": {}
+        }
+      },
+      "Syncfusion.Tools.WPF/18.3.0.35": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "18.3.0.35",
+          "Syncfusion.Shared.WPF": "18.3.0.35"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/Syncfusion.Tools.WPF.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Syncfusion.Tools.WPF.dll": {}
         }
       }
     }
@@ -170,6 +196,29 @@
         "tools/VisualStudioToolsManifest.xml"
       ]
     },
+    "Syncfusion.Themes.MaterialDark.WPF/18.3.0.35": {
+      "sha512": "fKQtFULUS89CTOCNxRyhV2WWiHSzgr0L09j535O4VJofjdJzdmVaiW0H72VdwYQRFBmpqaArnqPb97R0+4viYg==",
+      "type": "package",
+      "path": "syncfusion.themes.materialdark.wpf/18.3.0.35",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Syncfusion.Themes.MaterialDark.WPF.dll",
+        "lib/net40/Syncfusion.Themes.MaterialDark.WPF.xml",
+        "lib/net45/Syncfusion.Themes.MaterialDark.WPF.dll",
+        "lib/net45/Syncfusion.Themes.MaterialDark.WPF.xml",
+        "lib/net451/Syncfusion.Themes.MaterialDark.WPF.dll",
+        "lib/net451/Syncfusion.Themes.MaterialDark.WPF.xml",
+        "lib/net46/Syncfusion.Themes.MaterialDark.WPF.dll",
+        "lib/net46/Syncfusion.Themes.MaterialDark.WPF.xml",
+        "lib/netcoreapp3.1/Syncfusion.Themes.MaterialDark.WPF.dll",
+        "lib/netcoreapp3.1/Syncfusion.Themes.MaterialDark.WPF.xml",
+        "lib/netcoreapp5.0/Syncfusion.Themes.MaterialDark.WPF.dll",
+        "lib/netcoreapp5.0/Syncfusion.Themes.MaterialDark.WPF.xml",
+        "syncfusion.themes.materialdark.wpf.18.3.0.35.nupkg.sha512",
+        "syncfusion.themes.materialdark.wpf.nuspec"
+      ]
+    },
     "Syncfusion.Themes.MaterialLight.WPF/18.3.0.35": {
       "sha512": "NkHUavoDStwTjhQv1FEgdbEehZ/8i8GARqCGfozsFZRFkW+PGsdUi/6F9xdNU2E4J5y4mvTW3c9WPonb5JF18g==",
       "type": "package",
@@ -215,6 +264,60 @@
         "syncfusion.themes.materiallightblue.wpf.18.3.0.35.nupkg.sha512",
         "syncfusion.themes.materiallightblue.wpf.nuspec"
       ]
+    },
+    "Syncfusion.Tools.WPF/18.3.0.35": {
+      "sha512": "yMlywMBRZrGocZeDMsbQtxb97He14ug/82HjmtKvf6B27LBbtECwklaQpl+uz7XYLLXu3BUs8zHGPAl+wrMQlQ==",
+      "type": "package",
+      "path": "syncfusion.tools.wpf/18.3.0.35",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net35/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net35/Design/Syncfusion.Tools.Wpf.Expression.Design.dll",
+        "lib/net35/Design/Syncfusion.Tools.Wpf.VisualStudio.Design.dll",
+        "lib/net35/Design/Syncfusion.Tools.Wpf.dll.Design.dll",
+        "lib/net35/Syncfusion.Tools.WPF.dll",
+        "lib/net35/Syncfusion.Tools.WPF.xml",
+        "lib/net40/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net40/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net40/Design/Syncfusion.Tools.Wpf.Expression.Design.dll",
+        "lib/net40/Design/Syncfusion.Tools.Wpf.VisualStudio.Design.dll",
+        "lib/net40/Design/Syncfusion.Tools.Wpf.dll.Design.dll",
+        "lib/net40/Syncfusion.Tools.WPF.dll",
+        "lib/net40/Syncfusion.Tools.WPF.xml",
+        "lib/net45/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net45/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net45/Design/Syncfusion.Tools.Wpf.Expression.Design.dll",
+        "lib/net45/Design/Syncfusion.Tools.Wpf.VisualStudio.Design.dll",
+        "lib/net45/Design/Syncfusion.Tools.Wpf.dll.Design.dll",
+        "lib/net45/Syncfusion.Tools.WPF.dll",
+        "lib/net45/Syncfusion.Tools.WPF.xml",
+        "lib/net451/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net451/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net451/Design/Syncfusion.Tools.Wpf.Expression.Design.dll",
+        "lib/net451/Design/Syncfusion.Tools.Wpf.VisualStudio.Design.dll",
+        "lib/net451/Design/Syncfusion.Tools.Wpf.dll.Design.dll",
+        "lib/net451/Syncfusion.Tools.WPF.dll",
+        "lib/net451/Syncfusion.Tools.WPF.xml",
+        "lib/net46/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net46/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/net46/Design/Syncfusion.Tools.Wpf.Expression.Design.dll",
+        "lib/net46/Design/Syncfusion.Tools.Wpf.VisualStudio.Design.dll",
+        "lib/net46/Design/Syncfusion.Tools.Wpf.dll.Design.dll",
+        "lib/net46/Syncfusion.Tools.WPF.dll",
+        "lib/net46/Syncfusion.Tools.WPF.xml",
+        "lib/netcoreapp3.1/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/netcoreapp3.1/Syncfusion.Tools.WPF.dll",
+        "lib/netcoreapp3.1/Syncfusion.Tools.WPF.xml",
+        "lib/netcoreapp5.0/Design/Syncfusion.Tools.WPF.DesignTools.dll",
+        "lib/netcoreapp5.0/Syncfusion.Tools.WPF.dll",
+        "lib/netcoreapp5.0/Syncfusion.Tools.WPF.xml",
+        "syncfusion.tools.wpf.18.3.0.35.nupkg.sha512",
+        "syncfusion.tools.wpf.nuspec",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
     }
   },
   "projectFileDependencyGroups": {
@@ -222,30 +325,32 @@
       "Syncfusion.Licensing >= 18.3.0.35",
       "Syncfusion.SfSkinManager.WPF >= 18.3.0.35",
       "Syncfusion.Shared.WPF >= 18.3.0.35",
+      "Syncfusion.Themes.MaterialDark.WPF >= 18.3.0.35",
       "Syncfusion.Themes.MaterialLight.WPF >= 18.3.0.35",
-      "Syncfusion.Themes.MaterialLightBlue.WPF >= 18.3.0.35"
+      "Syncfusion.Themes.MaterialLightBlue.WPF >= 18.3.0.35",
+      "Syncfusion.Tools.WPF >= 18.3.0.35"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\henji\\.nuget\\packages\\": {},
-    "F:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\zhouh\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GithubCode\\ShareControl\\ShareControl\\ShareControl\\ShareControl.csproj",
+      "projectUniqueName": "C:\\Users\\zhouh\\Desktop\\MaterialDesignInPrism\\ShareControl\\ShareControl\\ShareControl\\ShareControl.csproj",
       "projectName": "ShareControl",
-      "projectPath": "D:\\GithubCode\\ShareControl\\ShareControl\\ShareControl\\ShareControl.csproj",
-      "packagesPath": "C:\\Users\\henji\\.nuget\\packages\\",
-      "outputPath": "D:\\GithubCode\\ShareControl\\ShareControl\\ShareControl\\obj\\",
+      "projectPath": "C:\\Users\\zhouh\\Desktop\\MaterialDesignInPrism\\ShareControl\\ShareControl\\ShareControl\\ShareControl.csproj",
+      "packagesPath": "C:\\Users\\zhouh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zhouh\\Desktop\\MaterialDesignInPrism\\ShareControl\\ShareControl\\ShareControl\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "F:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\henji\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\zhouh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -254,8 +359,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.cnblogs.com/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -285,11 +389,19 @@
             "target": "Package",
             "version": "[18.3.0.35, )"
           },
+          "Syncfusion.Themes.MaterialDark.WPF": {
+            "target": "Package",
+            "version": "[18.3.0.35, )"
+          },
           "Syncfusion.Themes.MaterialLight.WPF": {
             "target": "Package",
             "version": "[18.3.0.35, )"
           },
           "Syncfusion.Themes.MaterialLightBlue.WPF": {
+            "target": "Package",
+            "version": "[18.3.0.35, )"
+          },
+          "Syncfusion.Tools.WPF": {
             "target": "Package",
             "version": "[18.3.0.35, )"
           }
@@ -312,7 +424,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

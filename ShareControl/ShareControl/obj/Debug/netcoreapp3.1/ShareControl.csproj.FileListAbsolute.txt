@@ -50,3 +50,12 @@ C:\Users\zhouh\Desktop\MaterialDesignInPrism\ShareControl\ShareControl\ShareCont
 C:\Users\zhouh\Desktop\MaterialDesignInPrism\ShareControl\ShareControl\ShareControl\obj\Debug\netcoreapp3.1\ShareControl.pdb
 C:\Users\zhouh\Desktop\MaterialDesignInPrism\ShareControl\ShareControl\ShareControl\obj\Debug\netcoreapp3.1\ShareControl.genruntimeconfig.cache
 C:\Users\zhouh\Desktop\MaterialDesignInPrism\ShareControl\ShareControl\ShareControl\bin\Debug\netcoreapp3.1\Syncfusion.Themes.MaterialDark.WPF.dll
+C:\Users\zhouh\Desktop\MaterialDesignInPrism\ShareControl\ShareControl\ShareControl\obj\Debug\netcoreapp3.1\Views\MenuView.g.cs
+C:\Users\zhouh\Desktop\MaterialDesignInPrism\ShareControl\ShareControl\ShareControl\bin\Debug\netcoreapp3.1\DryIoc.dll
+C:\Users\zhouh\Desktop\MaterialDesignInPrism\ShareControl\ShareControl\ShareControl\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\zhouh\Desktop\MaterialDesignInPrism\ShareControl\ShareControl\ShareControl\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\zhouh\Desktop\MaterialDesignInPrism\ShareControl\ShareControl\ShareControl\bin\Debug\netcoreapp3.1\Prism.DryIoc.Wpf.dll
+C:\Users\zhouh\Desktop\MaterialDesignInPrism\ShareControl\ShareControl\ShareControl\bin\Debug\netcoreapp3.1\Prism.Wpf.dll
+C:\Users\zhouh\Desktop\MaterialDesignInPrism\ShareControl\ShareControl\ShareControl\bin\Debug\netcoreapp3.1\Syncfusion.Data.WPF.dll
+C:\Users\zhouh\Desktop\MaterialDesignInPrism\ShareControl\ShareControl\ShareControl\bin\Debug\netcoreapp3.1\Syncfusion.SfGrid.WPF.dll
+C:\Users\zhouh\Desktop\MaterialDesignInPrism\ShareControl\ShareControl\ShareControl\obj\Debug\netcoreapp3.1\Views\MenuView.baml

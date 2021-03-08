@@ -18,5 +18,7 @@
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgSyncfusion_Shared_WPF Condition=" '$(PkgSyncfusion_Shared_WPF)' == '' ">C:\Users\zhouh\.nuget\packages\syncfusion.shared.wpf\18.3.0.35</PkgSyncfusion_Shared_WPF>
     <PkgSyncfusion_Tools_WPF Condition=" '$(PkgSyncfusion_Tools_WPF)' == '' ">C:\Users\zhouh\.nuget\packages\syncfusion.tools.wpf\18.3.0.35</PkgSyncfusion_Tools_WPF>
+    <PkgSyncfusion_SfGrid_WPF Condition=" '$(PkgSyncfusion_SfGrid_WPF)' == '' ">C:\Users\zhouh\.nuget\packages\syncfusion.sfgrid.wpf\18.3.0.35</PkgSyncfusion_SfGrid_WPF>
+    <PkgMicrosoft_Xaml_Behaviors_Wpf Condition=" '$(PkgMicrosoft_Xaml_Behaviors_Wpf)' == '' ">C:\Users\zhouh\.nuget\packages\microsoft.xaml.behaviors.wpf\1.1.19</PkgMicrosoft_Xaml_Behaviors_Wpf>
   </PropertyGroup>
 </Project>

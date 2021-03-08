@@ -1,4 +1,6 @@
-﻿using Syncfusion.Windows.Shared;
+﻿using Prism.Regions;
+using ShareControl.Views;
+using Syncfusion.Windows.Shared;
 
 namespace ShareControl
 {
@@ -7,9 +9,10 @@ namespace ShareControl
     /// </summary>
     public partial class MainWindow : ChromelessWindow
     {
-        public MainWindow()
+        public MainWindow(IRegionManager manager)
         {
             InitializeComponent();
+            manager.RegisterViewWithRegion("ContentRegion", typeof(MenuView));
         }
     }
 }

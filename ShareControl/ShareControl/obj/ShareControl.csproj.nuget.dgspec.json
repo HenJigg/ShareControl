@@ -45,7 +45,15 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Prism.DryIoc": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            },
             "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[18.3.0.35, )"
+            },
+            "Syncfusion.SfGrid.WPF": {
               "target": "Package",
               "version": "[18.3.0.35, )"
             },
